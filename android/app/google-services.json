@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510071857485",
+    "project_id": "bookish-flutter",
+    "storage_bucket": "bookish-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510071857485:android:7ea65ba59eea39b3625704",
+        "android_client_info": {
+          "package_name": "com.example.bookish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510071857485-sqs3c0efkp8lr9e6smp2qua31glm1i16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1aJ-KBL_8uxuUavWXiU_xKHBoF-LlhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510071857485-sqs3c0efkp8lr9e6smp2qua31glm1i16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
